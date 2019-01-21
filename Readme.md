@@ -15,8 +15,8 @@
 ## Problems
 
 
-| ID | Problem  | Article | Animation |
-| --- | ---  | :--- |:--- |
+| ID | Problem  | Article | Animation |Date|
+| --- | ---  | :--- |:--- |:---  |
 | 000 |十大经典排序算法 | [十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg) | ![归并排序.gif](https://upload-images.jianshu.io/upload_images/1940317-92f62b62af03e233.gif?imageMogr2/auto-orient/strip)|
 | 001 |两数之和 | [每天一算：Two Sum](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483740&idx=1&sn=1950545589ea9b86ee65fbb6be1f4290&chksm=fa0e6eddcd79e7cb542b7d4dc1304eead516994315fa4f52b575230f0f022c9e0a88ede3714e&scene=21#wechat_redirect) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161033.gif) | 
 | 002 |两个数字相加 | [图解LeetCode第 2 号问题：两个数字相加](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484231&idx=2&sn=6a9eb4fd0619c822e4dede69b8d841c8&chksm=fa0e6cc6cd79e5d0c03fffcd65b665fed62db9dca9c97771898f388ea292ce806bfd6eb908b5&token=934487935&lang=zh_CN#rd)  |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092831.gif)| 
@@ -32,6 +32,7 @@
 |102	|二叉树的层序遍历|	[每天一算：Binary Tree Level Order Traveral](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483868&idx=1&sn=d50041789fcd13a75a2296f620b69d71&chksm=fa0e6e5dcd79e74b0030ac5129f10ec4ba87c98da63c5904affe9f06e06ecf28695c410d3ec7&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161232.gif)| 
 |103	|	二叉树的锯齿形层次遍历|	[图解LeetCode第 103 号问题：二叉树的锯齿形层次遍历](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484290&idx=2&sn=c29c4eefcbe8954cca6b3c8491ebccf1&chksm=fa0e6c03cd79e515581905322a3a22a3f3d10d24ca668a9d5aaef00932f0237eeaeaf3199668&token=1840661183&lang=zh_CN#rd)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092922.gif)| 
 |107	| 二叉树的层次遍历 II  |	每天一算： Binary Tree Level Order Traversal II|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092949.gif)| 
+|136	| 只出现一次的数字 |	[一道让你拍案叫绝的算法题 ](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484505&idx=1&sn=4c1c056dd4852c3b4b1ead51c90a9b2d&chksm=fa0e6bd8cd79e2ce8188dcdd8843a5d071248906bfb8971c62d513dbd69b816acc191a78e4b2&token=487128715&lang=zh_CN#rd)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190116110804.gif)| 2019-01-16 |
 |144 |  二叉树的前序遍历|  [每天一算：Binary Tree Preorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483843&idx=1&sn=994bf0d42dd9941a879a3a3ed500a4d6&chksm=fa0e6e42cd79e75472404eb5da7ee98f20d303efe230eb4f41efec57164630f555e7111e62ff&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181207112441.gif)| 
 | 145| 二叉树的后序遍历 |  [每天一算：Binary Tree Postorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483853&idx=1&sn=94cd4b4ee8dc2268290a72334c6af57b&chksm=fa0e6e4ccd79e75a41a6b78397b80cdfccda332823874475b516f997f89e786488599fc5cc1e&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181219084940.gif)| 
 | 150| 逆波兰表达式求值 | [每天一算：Evaluate Reverse Polish Notation](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483834&idx=1&sn=27cbff99f10dfcdb56cb37c237d7f2bb&chksm=fa0e6e3bcd79e72dc430bf81aed9dde9bd01634239dcf7820d6befa881efd323d9d58d76d90d&scene=21#wechat_redirect) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161304.gif)| 
@@ -42,13 +43,16 @@
 |209	| 	长度最小的子数组  |	每天一算： Minimum Size Subarray Sum |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210093031.gif)| 
 | 219|存在重复元素 II  |[每天一算：Contains Duplicate II  ](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483755&idx=1&sn=2501b6ca09c43eaa9fba71a9bd1f5253&chksm=fa0e6eeacd79e7fc192c0a23cf90d98fe6f2c35f9e4f2d0f937ccba45a58cf23a0a9c49d35d5&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161352.gif)| 
 |237|	删除链表中的节点	|每天一算：Delete Node in a Linked List|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161400.gif) |
+|279|	完全平方数	|[图解LeetCode第 279 号问题： 完全平方数](https://mp.weixin.qq.com/s/53AlHe29fJF1hEwj0cj7ZA)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190119213317.gif) |  Made by 王琛 2019-01-19日|
 |283	|移动零	|[每天一算：Move Zeros](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483700&idx=1&sn=465f778d60e8560742feab5844d7cac5&chksm=fa0e6eb5cd79e7a357899d378edb532b498cd63e3ce9113f8ac74d397ce4b214ca5aa8198b7d&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161421.gif)| 
 |328 |奇偶链表  | [每天一算：Odd Even Linked List](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483786&idx=1&sn=f7810950b34675e1c4420361faf5e361&chksm=fa0e6e0bcd79e71d2c6fc6a4a68b6ef7a17abc3dc9897548f8e44b51e9494f52c4cebbc4176e&scene=21#wechat_redirect) |![](https://diycode.b0.upaiyun.com/photo/2018/94e5c38540029690c93314b3d697caaf.gif)| 
 |344 | 反转字符串 |每天一算：Reverse String |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181211110918.gif)| 
 |349 |  两个数组的交集| [每天一算：Intersection of Two Arrays ](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483726&idx=1&sn=a887f6b983058d97c183dd300832ecbb&chksm=fa0e6ecfcd79e7d985587b543622c85aadc83a4d7a074135e1356fb4a0ebfd07e7af13467906&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161441.gif)| 
 | 350|  两个数组的交集 II| [每天一算：Intersection of Two Arrays II ](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483733&idx=1&sn=946bd6de3251437dd77b43ecab056c82&chksm=fa0e6ed4cd79e7c2a439b5f1853bf5154a3438ed282c7ba5e94948780c426a1f1492c0b201c4&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161729.gif)| 
+|445|	两数相加 II	|[图解LeetCode第 445 号问题：  两数相加 II](https://mp.weixin.qq.com/s/z8_1dK7mw9gxfhhSZUBVgg)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190119213714.gif) |  Made by 王琛 2019-01-19日|
 |447 | 回旋镖的数量 |  [每日一算：Number of Boomerangs](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483747&idx=1&sn=7774eee0b252b311257134f6a52c4e2d&chksm=fa0e6ee2cd79e7f44858c46c3d04859ced9073dbb9de95ce7ee0bcc131e613862ddfd9a6f158&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161738.gif)|
 |454 |四数相加 II  |  每日一算：4Sum II|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161751.gif)| 
+|642 |设计搜索自动补全系统  |  [图解 LeetCode 第 642 号问题：搜索自动完成系统](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484491&idx=1&sn=b329d90370d183b5a58bbf03f6a436ae&chksm=fa0e6bcacd79e2dc05bb5eaabd888561b82c37700b511e4971aa76ec42a630c0a35ef3e4721b&token=397665543&lang=zh_CN#rd)|动画是采用AE制作，内存太大，无法使用GIF播放，请前往[动画](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484491&idx=1&sn=b329d90370d183b5a58bbf03f6a436ae&chksm=fa0e6bcacd79e2dc05bb5eaabd888561b82c37700b511e4971aa76ec42a630c0a35ef3e4721b&token=397665543&lang=zh_CN#rd)观看，感谢 Jun Chen 大佬提供动画技术支持，笔芯。| 
 
 
 如果文章链接无法点击，说明文章还未发布，敬请期待：）
